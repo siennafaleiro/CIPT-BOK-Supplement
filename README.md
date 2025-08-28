@@ -2,6 +2,8 @@
 
 This repository serves as a supplement to the Certified Information Privacy Technologist (CIPT) Exam Body of Knowledge (BOK), providing links to topics referenced in the BoK (Version 3.2.0).
 
+- [IAPP Certified Information Privacy Technologist (CIPT) Exam Syllabus](https://www.certfun.com/iapp/iapp-certified-information-privacy-technologist-cipt-exam-syllabus)
+
 It's essential to be aware that this supplementary document is unofficial, and the linked resources may not encompass the knowledge sought by the International Association of Privacy Professionals (IAPP).
 
 You are encouraged to share and contribute to this repository.
@@ -290,3 +292,9 @@ You are encouraged to share and contribute to this repository.
 ### F. Social Networks
 #### c. Virtual/Augmented reality
 - [Jerome, J., & Greenberg, J. AR & VR: PRIVACY AND AUTONOMY CONSIDERATIONS IN EMERGING, IMMERSIVE DIGITAL WORLDS. Future of Privacy Forum.](https://fpf.org/wp-content/uploads/2021/04/FPF-ARVR-Report-4.16.21-Digital.pdf)
+
+#### d. Social Media
+- [LinkedIn](https://www.linkedin.com/in/sienna-faleiro/)
+- [Facebook](https://www.facebook.com/certfuncom)
+- [Pinterest](https://in.pinterest.com/certfun/)
+- [Github](https://github.com/siennafaleiro)
