@@ -17,7 +17,6 @@ You are encouraged to share and contribute to this repository.
 ### b. Privacy frameworks (e.g., NIST/NICE, ISO/IEC 27701 and BS100112 Privacy Information Management System)
 - [Privacy Framework. (2020). NIST.](https://www.nist.gov/privacy-framework/privacy-framework)
 - [ISO/IEC 27701. (2023). In Wikipedia.](https://en.wikipedia.org/wiki/ISO/IEC_27701)
-- [BS 10012—Personal Information Management, Training, certification. (n.d.). Bsi.](https://www.bsigroup.com/en-GB/BS-10012-Personal-information-management/)
 - [Summary of the HIPAA Privacy Rule. (2008, May 7). Hhs.Gov.](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
 
 #### c. Nissenbaum’s Contextual Integrity
