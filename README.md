@@ -73,6 +73,7 @@ You are encouraged to share and contribute to this repository.
 ## II. The Privacy Technologist’s Role in the Context of the Organization
 
 ### A. General responsibilities
+- [Crack the IAPP CIPT Exam: Proven Strategies for Success](https://medium.com/@certifyinsider/crack-the-iapp-cipt-exam-proven-strategies-for-success-12c515c5e2ac)
 ### B. Technical Responsibilities
 
 ## III. Privacy Risks, Threats and Violations
