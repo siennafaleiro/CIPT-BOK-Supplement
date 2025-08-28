@@ -12,12 +12,15 @@ You are encouraged to share and contribute to this repository.
 
 #### a. FIPPs and OECD Principles
 - [Fair Information Practice Principles (FIPPs). Fpc.Gov.](https://www.fpc.gov/resources/fipps/)
-- [The OECD Privacy Framework. OECD.](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf) (Page 14-15) 
+- [The OECD Privacy Framework. OECD.](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf) (Page 14-15)
+- [IAPP CIPT Study Guide PDF](https://www.certificationbox.com/wp-content/uploads/2024/01/IAPP-CIPT-Study-Guide-PDF.pdf)
 
 ### b. Privacy frameworks (e.g., NIST/NICE, ISO/IEC 27701 and BS100112 Privacy Information Management System)
 - [Privacy Framework. (2020). NIST.](https://www.nist.gov/privacy-framework/privacy-framework)
 - [ISO/IEC 27701. (2023). In Wikipedia.](https://en.wikipedia.org/wiki/ISO/IEC_27701)
 - [Summary of the HIPAA Privacy Rule. (2008, May 7). Hhs.Gov.](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
+- [Is IAPP CIPT Certification Worth It?](https://create.kahoot.it/story/a2ec8948-ac7d-4a09-8f11-e3f0c674fd31/is-iapp-cipt-certification-worth-it)
+
 
 #### c. Nissenbaum’s Contextual Integrity
 - [Nissenbaum, H. (2004). Privacy as Contextual Integrity. Washington Law Review, 79.](https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=4450&context=wlr) 
@@ -31,11 +34,13 @@ You are encouraged to share and contribute to this repository.
 
 ### B. General Understanding of Privacy by Design Principles
 - [The OECD Privacy Framework. OECD.](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf) (Page 7-10)
+- [Conquer the CIPT Certification: Exam Difficulty Unveiled](https://medium.com/@certifyinsider/conquer-the-cipt-certification-exam-difficulty-unveiled-ea4651bde1f3)
 
 ### C. General Understanding of Privacy-related Technology Fundamentals
 
 #### a. Risk concepts (e.g., threats, vulnerability)
 - [D. Breaux, T. (Ed.). An Introduction to Privacy for Technology Professionals Digital. International Association of Privacy Professionals (IAPP). Section 1.3.](https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-digital/)
+- [Top Resources for IAPP CIPT Certification](https://www.certificationbox.com/2025/05/24/cipt-certification-tools-you-need/)
   
 #### b. Data/security incidents vs. personal data/privacy breaches
 - [Security incident—Glossary | CSRC. NIST.](https://csrc.nist.gov/glossary/term/security_incident)
@@ -45,9 +50,11 @@ You are encouraged to share and contribute to this repository.
 #### e. External Data Protection and Privacy notices
 - [Privacy Notice. IAPP.](https://iapp.org/resources/article/privacy-notice/)
 - [Writing a GDPR-compliant privacy notice (template included). (2018, July 11). GDPR.Eu.](https://gdpr.eu/privacy-notice/)
+- [Unlock Privacy Tech Skills: CIPT Certification Prep](https://www.linkedin.com/pulse/unlock-privacy-tech-skills-cipt-certification-prep-anindita-kumar-gbjae/)
 
 #### f. Internal Data Protection and Privacy guidelines, policies and procedures
 - [Privacy Policy. IAPP.](https://iapp.org/resources/article/privacy-policy/)
+- [Top Tips: Passing Your IAPP CIPT Certification](https://itcertedu.hashnode.dev/top-tips-passing-your-iapp-cipt-certification)
 
 #### h.Data inventories, classification and records of processing
 - [Data Classification Concepts and Considerations for Improving Data Protection (NIST IR 8496 ipd; p. NIST IR 8496 ipd). National Institute of Standards and Technology.](https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8496.ipd.pdf)
