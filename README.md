@@ -75,6 +75,7 @@ You are encouraged to share and contribute to this repository.
 ### A. General responsibilities
 - [Crack the IAPP CIPT Exam: Proven Strategies for Success](https://medium.com/@certifyinsider/crack-the-iapp-cipt-exam-proven-strategies-for-success-12c515c5e2ac)
 ### B. Technical Responsibilities
+- [Become a Privacy Specialist with IAPP IAPP CIPT Certification](https://www.certfun.com/blog/become-privacy-specialist-iapp-iapp-cipt-certification)
 
 ## III. Privacy Risks, Threats and Violations
 
